@@ -55,3 +55,9 @@ body{
 
     margin-left:20px;
 }
+#answer{
+    margin-top: 10px;
+    color: blue;
+    font-size: 40px;
+    font-family: monospace;
+}
